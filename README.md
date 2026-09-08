@@ -1,19 +1,41 @@
-# Gabriel Lopes
-
-### Desenvolvedor em formação | Python • JavaScript • React • SQL
-
-> Construindo projetos, automatizando processos e aprendendo tecnologia na prática.
-
----
-
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo
-minha experiência através de projetos próprios, automações e desenvolvimento
-de aplicações.
+Olá! Eu sou **Gabriel Lopes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** aprendendo desenvolvimento de software e criação de soluções digitais.
 
-Atualmente estudo principalmente desenvolvimento web, programação, bancos de
-dados e automação de processos.
+Atualmente, venho construindo minha trajetória na área de tecnologia através de **projetos práticos, estudos e desenvolvimento de aplicações**, buscando transformar conhecimentos teóricos em soluções funcionais e bem estruturadas.
+
+Tenho conhecimentos em **Python, JavaScript, React, SQL e bancos de dados relacionais**, além de experiência com tecnologias e ferramentas como **Supabase, Firebase, APIs, Git e GitHub**.
+
+Durante minha formação, venho desenvolvendo projetos envolvendo **desenvolvimento web, modelagem e normalização de bancos de dados, APIs, sistemas de gerenciamento e interfaces responsivas**, sempre buscando melhorar minhas habilidades de lógica de programação, arquitetura e organização de código.
+
+Também tenho experiência profissional com **suporte de TI, desenvolvimento de soluções digitais, design e produção de conteúdo**, o que me proporcionou uma visão mais ampla sobre tecnologia e sobre como diferentes áreas podem trabalhar juntas para criar produtos melhores.
+
+### 🚀 Atualmente estou focado em
+
+* 📚 Evoluir meus conhecimentos em **Desenvolvimento de Software**
+* 💻 Aprofundar meus estudos em **JavaScript, React, Java e Python**
+* 🗄️ Aprimorar conhecimentos em **SQL, bancos de dados e modelagem**
+* 🔌 Aprender e desenvolver **APIs e integrações**
+* 🧠 Melhorar **lógica de programação e resolução de problemas**
+* 🛠️ Criar projetos para colocar meus conhecimentos em prática
+* 🌱 Construir minha carreira profissional na **área de tecnologia**
+
+### 🧰 Tecnologias e conhecimentos
+
+**Linguagens:**
+`Python` `JavaScript` `SQL`
+
+**Desenvolvimento:**
+`HTML` `CSS` `React` `APIs` `Git` `GitHub`
+
+**Banco de Dados:**
+`SQL` `Modelagem de Dados` `Normalização` `Bancos Relacionais` `Supabase` `Firebase`
+
+**Ferramentas:**
+`GitHub` `VS Code` `Google AI Studio` `n8n`
+
+> 🚀 Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.
+
 
 ---
 
