@@ -32,9 +32,7 @@ Também tenho experiência profissional com **suporte de TI, desenvolvimento de 
 <img
   width= "40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
-**Desenvolvimento:**
-<img 
+  <img 
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img 
