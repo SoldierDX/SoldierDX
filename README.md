@@ -25,7 +25,7 @@ Também tenho experiência profissional com **suporte de TI, desenvolvimento de 
 **Linguagens:**
 <img
   width= "40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />` `JavaScript` `SQL`
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img 
   width= "40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -34,35 +34,6 @@ Também tenho experiência profissional com **suporte de TI, desenvolvimento de 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 **Desenvolvimento:**
-`HTML` `CSS` `React` `APIs` `Git` `GitHub`
-
-**Banco de Dados:**
-`SQL` `Modelagem de Dados` `Normalização` `Bancos Relacionais` `Supabase` `Firebase`
-
-**Ferramentas:**
-`GitHub` `VS Code` `Google AI Studio` `n8n`
-
-> 🚀 Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.
-
-
----
-
-## 🛠️ Tecnologias
-
-### Linguagens
-
-<img
-  width= "40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img 
-  width= "40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img
-  width= "40px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
-### Desenvolvimento
-
 <img 
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -70,8 +41,7 @@ Também tenho experiência profissional com **suporte de TI, desenvolvimento de 
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 
-### Ferramentas
-
+**Ferramentas:**
 <img 
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
@@ -79,7 +49,11 @@ Também tenho experiência profissional com **suporte de TI, desenvolvimento de 
   width="40px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
+> 🚀 Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.
+
+
 ---
+
 
 ## 🚀 Projetos
 
