@@ -33,61 +33,47 @@ dados e automação de processos.
 
 ### Desenvolvimento
 
-![React](...)
-![HTML](...)
-![CSS](...)
-
-### Banco de Dados
-
-![PostgreSQL](...)
-![Supabase](...)
+<img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 
 ### Ferramentas
 
-![Git](...)
-![GitHub](...)
-![n8n](...)
+<img 
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img
+  width="40px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 ---
 
 ## 🚀 Projetos
 
-### 🔹 Projeto 01 — Nome do projeto
+### 🚘 EliteCar — Gestão e Estética Automotiva
 
-> Breve descrição do projeto.
+Sistema web desenvolvido para gerenciamento de oficinas mecânicas, centros de estética automotiva e autocenters.
 
-**Tecnologias:** Python • SQL • API
+O projeto foi desenvolvido com foco em **UX/UI, responsividade e experiência do usuário**, oferecendo uma interface moderna e funcionalidades voltadas para a rotina de gestão automotiva.
 
-[Ver projeto →](LINK)
+**✨ Principais funcionalidades:**
 
----
+* 📋 Gestão de Ordens de Serviço com Kanban
+* 🚗 Cadastro e gerenciamento de veículos e clientes
+* 👨‍🔧 Gestão de funcionários e especialidades
+* 💰 Criação e gerenciamento de orçamentos
+* 📄 Exportação de orçamentos em PDF
+* 📊 Dashboard financeiro com gráficos e KPIs
+* 🌓 Tema claro e escuro
+* 🔎 Busca online de peças e preços
+* 💾 Persistência de dados com LocalStorage
 
-### 🔹 Projeto 02 — Nome do projeto
+**🛠️ Tecnologias:**
 
-> Breve descrição do projeto.
+`HTML5` `CSS3` `JavaScript` `LocalStorage` `ApexCharts` `SweetAlert2` `html2pdf.js` `Serper API`
 
-**Tecnologias:** React • JavaScript • Supabase
+🔗 **[Ver projeto no GitHub](https://github.com/SoldierDX/Elite-Car---Projeto)**
 
-[Ver projeto →](LINK)
-
----
-
-### 🔹 Projeto 03 — Nome do projeto
-
-> Breve descrição do projeto.
-
-**Tecnologias:** Python • Selenium • Automação
-
-[Ver projeto →](LINK)
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](...)
-
----
-
-## 📫 Contato
-
-[LinkedIn](LINK) • [Portfólio](LINK) • [Email](mailto:EMAIL)
